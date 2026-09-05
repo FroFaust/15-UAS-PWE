@@ -123,7 +123,6 @@
 
 <div class="container py-5">
 
-```
 {{-- HEADER --}}
 
 <div class="checkout-header">
@@ -371,7 +370,6 @@
     </div>
 
 </div>
-```
 
 </div>
 
